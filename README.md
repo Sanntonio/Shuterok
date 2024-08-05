@@ -1,0 +1,2 @@
+# Shuterok
+ Map of factory
